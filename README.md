@@ -8,6 +8,7 @@
 * [Screenshots](#screenshots)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
+* [Project Demonstration Video](#Project-Demonistration-video)
 
 
 ## General Information
@@ -48,3 +49,5 @@
 ## Acknowledgements
 - This project was inspired by our learnings from the internship.
 - This project was based on [this dataset](https://https://github.com/tesseract-ocr/tessdata).
+## Project Demonstration video
+- [Click Here](https://drive.google.com/file/d/1diwYwsbmizCj2S2llHPpS5d3HT72O-xt/view?usp=drivesdk)
