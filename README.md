@@ -8,7 +8,7 @@
 * [Screenshots](#screenshots)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
-* [Project Demonstration Video](#Project-Demonistration-video)
+* [Project Demonstration Video](#Project-Demonstration-video)
 
 
 ## General Information
